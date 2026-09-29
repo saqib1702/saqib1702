@@ -1,4 +1,4 @@
-# \# Hi, I'm Saqib 👋
+# Hi, I'm Saqib 👋
 
 # 
 
@@ -24,11 +24,11 @@
 
 # 
 
-# \## What I work with
+#  What I work with
 
 # 
 
-# \### Backend \& Languages
+#  Backend \& Languages
 
 # 
 
@@ -40,7 +40,7 @@
 
 # 
 
-# \### Data \& ML
+# Data \& ML
 
 # 
 
@@ -52,7 +52,7 @@
 
 # 
 
-# \### Automation \& Integrations
+#  Automation \& Integrations
 
 # 
 
@@ -64,7 +64,7 @@
 
 # 
 
-# \## Education
+# Education
 
 # 
 
@@ -72,7 +72,7 @@
 
 # 
 
-# \## Let's talk
+#Let's talk
 
 # 
 
