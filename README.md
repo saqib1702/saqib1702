@@ -10,13 +10,13 @@
 
 # 
 
-# \* Fraud \& risk tools for teams that need explainable predictions, not black boxes → RTO Shield Pro (GradientBoostingClassifier + SHAP + fraud ring detection)
+#  Fraud \& risk tools for teams that need explainable predictions, not black boxes → RTO Shield Pro (GradientBoostingClassifier + SHAP + fraud ring detection)
 
-# \* Collaboration platforms for people who need real-time features to just work → SkillBridge Connect (ASP.NET Core MVC, SignalR, WebRTC)
+# Collaboration platforms for people who need real-time features to just work → SkillBridge Connect (ASP.NET Core MVC, SignalR, WebRTC)
 
-# \* AI-assisted workflows for freelancers and job seekers who want their time back → n8n systems that scan job markets, score leads, and draft proposals automatically
+# AI-assisted workflows for freelancers and job seekers who want their time back → n8n systems that scan job markets, score leads, and draft proposals automatically
 
-# \* Personal automation for anyone drowning in manual reminders and repetitive admin work
+# Personal automation for anyone drowning in manual reminders and repetitive admin work
 
 # 
 
@@ -24,19 +24,19 @@
 
 # 
 
-#  What I work with
+# What I work with
 
 # 
 
-#  Backend \& Languages
+# Backend \& Languages
 
 # 
 
-# \* Python (FastAPI, Flask, Pydantic)
+# Python (FastAPI, Flask, Pydantic)
 
-# \* C# (.NET / ASP.NET Core MVC)
+# C# (.NET / ASP.NET Core MVC)
 
-# \* SQL Server / Azure SQL
+# SQL Server / Azure SQL
 
 # 
 
@@ -44,23 +44,22 @@
 
 # 
 
-# \* pandas, matplotlib
+# pandas, matplotlib
 
-# \* scikit-learn (GradientBoostingClassifier, SHAP for explainability)
+# scikit-learn (GradientBoostingClassifier, SHAP for explainability)
 
-# \* networkx (graph-based fraud ring detection)
-
-# 
-
-#  Automation \& Integrations
+# networkx (graph-based fraud ring detection)
 
 # 
 
-# \* n8n (multi-agent workflows, scheduled scans, Data Tables)
+# Automation \& Integrations
 
-# \* Groq / Gemini APIs (LLM-driven scoring and drafting)
+# 
+# n8n (multi-agent workflows, scheduled scans, Data Tables)
 
-# \* Meta WhatsApp Cloud API
+# Groq / Gemini APIs (LLM-driven scoring and drafting)
+
+# Meta WhatsApp Cloud API
 
 # 
 
